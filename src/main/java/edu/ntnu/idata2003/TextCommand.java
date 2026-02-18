@@ -5,10 +5,7 @@ package edu.ntnu.idata2003;
  * @version 2024.06.01
  * @author Daniel Johansen
  */
-public class TextCommand  {
+public interface TextCommand  {
 
-  private void String() {
-    execute(text);
+  String execute(String text);
   }
-
-}
