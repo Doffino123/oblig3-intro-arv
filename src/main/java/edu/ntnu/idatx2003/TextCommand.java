@@ -1,4 +1,4 @@
-package edu.ntnu.idata2003;
+package edu.ntnu.idatx2003;
 
 /**
  * Represents an action on a give string of text

@@ -1,4 +1,4 @@
-package edu.ntnu.idata2003.capitalize;
+package edu.ntnu.idatx2003.capitalize;
 
   public class CapitalizeSelectionTextCommand extends CapitalizeTextCommand {
     private final String selection;

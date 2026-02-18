@@ -1,5 +1,5 @@
-package edu.ntnu.idata2003.wrap;
-import edu.ntnu.idata2003.TextCommand;
+package edu.ntnu.idatx2003.wrap;
+import edu.ntnu.idatx2003.TextCommand;
 
 public class WrapTextCommand implements TextCommand {
   protected final String opening;

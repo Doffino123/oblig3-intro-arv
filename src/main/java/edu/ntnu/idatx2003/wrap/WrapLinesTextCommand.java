@@ -1,4 +1,4 @@
-package edu.ntnu.idata2003.wrap;
+package edu.ntnu.idatx2003.wrap;
 
 public class WrapLinesTextCommand extends WrapTextCommand {
 

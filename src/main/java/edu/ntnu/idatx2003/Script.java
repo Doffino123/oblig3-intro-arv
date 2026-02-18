@@ -1,4 +1,4 @@
-package edu.ntnu.idata2003;
+package edu.ntnu.idatx2003;
 
 import java.util.List;
 

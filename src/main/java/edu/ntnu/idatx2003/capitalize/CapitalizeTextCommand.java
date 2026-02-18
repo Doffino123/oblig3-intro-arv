@@ -1,6 +1,6 @@
-package edu.ntnu.idata2003.capitalize;
+package edu.ntnu.idatx2003.capitalize;
 
-import edu.ntnu.idata2003.TextCommand;
+import edu.ntnu.idatx2003.TextCommand;
 
 public class CapitalizeTextCommand implements TextCommand {
 
