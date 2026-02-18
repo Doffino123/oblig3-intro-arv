@@ -1,5 +1,18 @@
 package edu.ntnu.idata2003;
 
-public class Script {
+import java.util.List;
 
+public class Script {
+  private final List<TextCommand> textCommands;
+
+  public Script(List<TextCommand> textCommands) {
+    this.textCommands = textCommands;
+  }
+
+  public String execute(String text) {
+    for (TextCommand command : textCommands) {
+      text = command.execute(text);
+    }
+    return text;
+  }
 }
